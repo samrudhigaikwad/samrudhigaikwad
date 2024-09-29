@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samrudhigaikwad&show_icons=true&locale=en" alt="samrudhigaikwad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samrudhigaikwad&" alt="samrudhigaikwad" /></p>
+<p><img align="center" style="background-color⚫" src="https://github-readme-streak-stats.herokuapp.com/?user=samrudhigaikwad&" alt="samrudhigaikwad" /></p>
