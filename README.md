@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **samrudhigaikwad2004@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡work on new idias
+- ⚡creative  projects work
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
