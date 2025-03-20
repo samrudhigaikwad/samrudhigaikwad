@@ -1,5 +1,5 @@
 # **🌍 Hey, I’m [Samruddhi Gaikwad](https://github.com/samrudhigaikwad) 👋**  
-### 🚀 **Aspiring Computer Scientist | Passionate Coder | Open-Source Contributor**  
+### 🚀 **Aspiring Computer Scientist | Passionate Coder | Open-Source Contributor | Python Full-Stack Developer | Django Develloper**  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74F06&center=true&width=600&lines=Passionate+about+Technology+and+Coding;Building+Projects+with+Python+%26+Django;Lifelong+Learner+%7C+Problem+Solver+%F0%9F%94%A8" alt="Typing SVG" />
